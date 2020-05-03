@@ -9,7 +9,7 @@ public class Task_2 {
      a portion of the code is provided for you in the editor below.
 */
     public static void main(String[] args) {
-        
+
         Scanner scan = new Scanner(System.in);
         int a = scan.nextInt();
         int b = scan.nextInt();
