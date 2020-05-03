@@ -8,7 +8,7 @@ public class Task_3 {
     If n is even and in the inclusive range of to , print Not Weird
     If n is even and in the inclusive range of to , print Weird
     If is even and greater than , print Not Weird*/
-    
+
    private static final Scanner scanner = new Scanner(System.in);
 
     public static void main(String[] args) {
