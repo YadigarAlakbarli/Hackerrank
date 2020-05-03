@@ -3,6 +3,9 @@ package com.company.tasks;
 import java.util.Scanner;
 
 public class Task_8 {
+    //Given an input integer,
+    // you must determine which primitive data types are capable of properly storing that input
+    
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int t = sc.nextInt();
