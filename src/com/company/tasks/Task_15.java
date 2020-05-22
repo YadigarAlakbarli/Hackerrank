@@ -5,6 +5,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 public class Task_15 {
+    //Java Substring Comparisons
     public static void main(String[] args) {
 
         Scanner scan = new Scanner(System.in);
