@@ -4,6 +4,7 @@ import java.math.BigInteger;
 import java.util.Scanner;
 
 public class Task_26 {
+    //Java BigInteger
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         BigInteger a=sc.nextBigInteger();
