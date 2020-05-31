@@ -1,4 +1,4 @@
-package com.company.tasks;
+package com.company.tasks.strings;
 
 public class Task_1 {
     /*Welcome to  the world of Java!In this challenge,we practice printing to stdout .

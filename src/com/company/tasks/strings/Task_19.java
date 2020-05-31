@@ -1,4 +1,4 @@
-package com.company.tasks;
+package com.company.tasks.strings;
 
 import java.util.Scanner;
 import java.util.regex.Pattern;
