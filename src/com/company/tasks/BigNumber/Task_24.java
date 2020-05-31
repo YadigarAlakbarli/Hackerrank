@@ -1,4 +1,4 @@
-package com.company.tasks;
+package com.company.tasks.BigNumber;
 
 import java.math.BigDecimal;
 import java.util.Scanner;
